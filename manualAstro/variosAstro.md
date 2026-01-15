@@ -13,3 +13,5 @@ npm run preview ( ver como quedaria en produccion (haber creado antes la `/dist`
 # ABREVIATURAS
 
 1. crear ScriptComponent dentro de "src\components\Navbar.astro": component + TAB
+
+2. github repositorio cambiar ` .com  x  .dev` abrir VS nube
