@@ -1,10 +1,3 @@
-# LINKS
-
-(paginaIncialDocs)[https://docs.astro.build/es/getting-started/]
-(estructura)[https://docs.astro.build/es/basics/project-structure/]
-(comandos)[https://docs.astro.build/es/reference/cli-reference/#astro-preferences]
-(layouts)[https://docs.astro.build/es/basics/layouts/]
-
 # ESLINT
 
 [// eslint-disable-next-line no-console]: #
