@@ -2,7 +2,12 @@
 (astroGithub)[https://docs.astro.build/es/guides/deploy/github/]
 (custom domain)[https://www.youtube.com/watch?v=BPnLC77SpNA]
 (ssh github)[https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account]
+###dominio custom githubpage
 (dominio github page mirar-lo namechaped)[https://www.youtube.com/watch?v=e5AwNU3Y2es]
+(dnsgithubpage)[https://docs.github.com/es/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site]
+(dnschequer)[https://dnschecker.org/]
+(nameChapped)[https://www.namecheap.com] NEWCOM649
+
 
 ## repositorio github
 
